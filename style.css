@@ -3,3 +3,14 @@ background-color: #F5F5F5;
 
 
 }
+
+
+.Pokémon{
+    color: indigo;
+    font-size: 20px;
+}
+
+#elétrico{
+    display: flex;
+    padding-left: 200px;
+}
